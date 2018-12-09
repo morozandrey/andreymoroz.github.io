@@ -1,0 +1,153 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy35.io" resolutions="1x" timestamp="1544301845906">
+  <folder name="images">
+    <file name="bg.jpg" crc="3958018446" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="vk-u3692.png" crc="3808441485" ref="phone>index"/>
+    <file name="twitter-u3699.png" crc="389684814" ref="phone>index"/>
+    <file name="instagram-logo-u3707.png" crc="481664903" ref="phone>index"/>
+    <file name="facebook-logo-button-u3715.png" crc="3898298634" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u4124.png" crc="3921859796" ref="phone>index"/>
+    <file name="1.jpg" crc="265424515" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u6599.png" crc="3921859796" ref="phone>index"/>
+    <file name="wedding.jpg" crc="4289694243" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding1.jpg" crc="4154120524" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding4.jpg" crc="322452718" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding5.jpg" crc="4024430421" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding6.jpg" crc="514754082" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding3.jpg" crc="3800930045" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inspiration-geometry.png" crc="3926881186" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg1.jpg" crc="171428347" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u4467.png" crc="519856643" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6606.png" crc="3921859796" ref="phone>index"/>
+    <file name="cancel.png" crc="4209128685" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u6613.png" crc="3921859796" ref="phone>index"/>
+    <file name="photo-camera-u2018-u5820.png" crc="3791345330" ref="phone>index"/>
+    <file name="picture-u2134-u5839.png" crc="3950760855" ref="phone>index"/>
+    <file name="event-date-and-time-symbol-u2150-u5877.png" crc="3823206549" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6620.png" crc="3921859796" ref="phone>index"/>
+    <file name="otz.jpg" crc="363038867" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u6627.png" crc="3921859796" ref="phone>index"/>
+    <file name="cancel2.png" crc="3968079486" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-u6107.png" crc="3808441485" ref="phone>index"/>
+    <file name="twitter-u6110.png" crc="389684814" ref="phone>index"/>
+    <file name="instagram-logo-u6113.png" crc="481664903" ref="phone>index"/>
+    <file name="facebook-logo-button-u6116.png" crc="3898298634" ref="phone>index"/>
+    <file name="vk-u1894.png" crc="77000252" ref="index"/>
+    <file name="twitter-u1902.png" crc="3940874157" ref="index"/>
+    <file name="instagram-logo-u1912.png" crc="4036260598" ref="index"/>
+    <file name="facebook-logo-button-u1924.png" crc="470767208" ref="index"/>
+    <file name="menu.png" crc="42422800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo.jpg" crc="32944799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u2195.png" crc="519856643" ref="index"/>
+    <file name="wedding8.jpg" crc="4236359338" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding7.jpg" crc="4173260125" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hr-white-three-u2245-u2215.png" crc="519856643" ref="index"/>
+    <file name="hr-white-three-u2245-u2225.png" crc="519856643" ref="index"/>
+    <file name="photo-camera-u2018-u2018.png" crc="3791345330" ref="index"/>
+    <file name="picture-u2134-u2134.png" crc="3950760855" ref="index"/>
+    <file name="event-date-and-time-symbol-u2150-u2150.png" crc="3823206549" ref="index"/>
+    <file name="hr-white-three-u2245-u2245.png" crc="519856643" ref="index"/>
+    <file name="vk-u2072.png" crc="77000252" ref="index"/>
+    <file name="twitter-u2075.png" crc="3940874157" ref="index"/>
+    <file name="instagram-logo-u2078.png" crc="4036260598" ref="index"/>
+    <file name="facebook-logo-button-u2081.png" crc="470767208" ref="index"/>
+    <file name="background-2-2.jpg" crc="3891840369" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prometheus.jpg" crc="8615301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prometheus-u7329-r-fr.png" crc="510359482" ref="index"/>
+    <file name="сертификат.jpg" crc="176406826" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp.png" crc="302490207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber.png" crc="4105820969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram.png" crc="524980119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmail.png" crc="527077950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="3876198876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="135884320" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="459750969" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3810865186" seo="true" mt="1544279345381" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3960500799" ref="index"/>
+    <file name="iefonts_index.css" crc="406773723" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="310584261" ref="index:phone>index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u4480.php" crc="4190177091" ref="phone>index"/>
+    <file name="form-u4635.php" crc="508208821" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="form-u5561.php" crc="474243699" ref="phone>index"/>
+    <file name="form-u5655.php" crc="4052961323" ref="phone>index"/>
+    <file name="form-u6427.php" crc="4062270781" ref="phone>index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+  </folder>
+  <file name="index.html" crc="406285179" seo="true" mt="1544301814640" redirect="true"/>
+</manifest>
